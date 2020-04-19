@@ -1,0 +1,6 @@
+
+env/ 
+.vscode/
+*.pyc
+__pycache__/
+EC2_socket_instance/
