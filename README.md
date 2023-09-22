@@ -19,6 +19,3 @@ Finally run, `python3 server.py` on the EC2 instance. A socket server gets start
 In the `client.py` file in the host variable put the IP address of the host is `<public IP of the cloud instance>`
 run, `python3 client.py` on a client's terminal which could be victim's system or any.
 After connection established, terminal commands can be sent from server to the client which will work as desired on the client's system.
-
-###### For reference,
-https://www.youtube.com/playlist?list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF
